@@ -1,0 +1,15 @@
+.jumbotron {
+    background: linear-gradient(to bottom, rgba(33, 44, 98, 0.59), rgba(0, 0, 0, 0.9));
+    color: white;
+}
+
+.currentTrain>h4,
+.form>h4 {
+    padding: 10px 10px;
+    background: linear-gradient(to bottom, rgba(33, 44, 98, 0.59), rgba(0, 0, 0, 0.9));
+    color: white;
+}
+
+table {
+    width: 100%;
+}
